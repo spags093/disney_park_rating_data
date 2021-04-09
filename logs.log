@@ -1,0 +1,481 @@
+2021-04-09 12:32:02,149:INFO:Initializing create_model()
+2021-04-09 12:32:02,150:INFO:create_model(model=lsi, multi_core=False, num_topics=None, verbose=True, system=True)
+2021-04-09 12:32:02,150:INFO:Checking exceptions
+2021-04-09 12:32:02,150:INFO:Preloading libraries
+2021-04-09 12:32:02,150:INFO:Preparing display monitor
+2021-04-09 12:43:37,022:INFO:PyCaret NLP Module
+2021-04-09 12:43:37,022:INFO:version 2.3.0
+2021-04-09 12:43:37,022:INFO:Initializing setup()
+2021-04-09 12:43:37,022:INFO:USI: 9e57
+2021-04-09 12:43:37,023:INFO:setup(data=(42656, 2), target=Review_Text, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-04-09 12:43:37,023:INFO:Checking environment
+2021-04-09 12:43:37,023:INFO:python_version: 3.6.9
+2021-04-09 12:43:37,023:INFO:python_build: ('default', 'Jul 30 2019 13:42:17')
+2021-04-09 12:43:37,023:INFO:machine: x86_64
+2021-04-09 12:43:37,044:INFO:platform: Darwin-17.7.0-x86_64-i386-64bit
+2021-04-09 12:43:37,047:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-04-09 12:43:37,047:INFO:Checking libraries
+2021-04-09 12:43:37,047:INFO:pd==1.0.3
+2021-04-09 12:43:37,048:INFO:numpy==1.19.5
+2021-04-09 12:43:37,741:INFO:gensim==3.7.3
+2021-04-09 12:43:38,712:INFO:spacy==2.3.5
+2021-04-09 12:43:38,712:INFO:nltk==3.4.5
+2021-04-09 12:43:38,759:INFO:textblob==0.15.3
+2021-04-09 12:43:38,999:INFO:pyLDAvis==3.2.2
+2021-04-09 12:43:39,145:INFO:wordcloud==1.8.1
+2021-04-09 12:43:39,815:INFO:mlflow==1.14.0
+2021-04-09 12:43:39,815:INFO:Checking Exceptions
+2021-04-09 12:45:07,486:INFO:PyCaret NLP Module
+2021-04-09 12:45:07,486:INFO:version 2.3.0
+2021-04-09 12:45:07,486:INFO:Initializing setup()
+2021-04-09 12:45:07,486:INFO:USI: 51fe
+2021-04-09 12:45:07,487:INFO:setup(data=(42656, 2), target=Review_Text, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-04-09 12:45:07,487:INFO:Checking environment
+2021-04-09 12:45:07,487:INFO:python_version: 3.6.9
+2021-04-09 12:45:07,487:INFO:python_build: ('default', 'Jul 30 2019 13:42:17')
+2021-04-09 12:45:07,487:INFO:machine: x86_64
+2021-04-09 12:45:07,488:INFO:platform: Darwin-17.7.0-x86_64-i386-64bit
+2021-04-09 12:45:07,489:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-04-09 12:45:07,489:INFO:Checking libraries
+2021-04-09 12:45:07,489:INFO:pd==1.0.3
+2021-04-09 12:45:07,489:INFO:numpy==1.19.5
+2021-04-09 12:45:07,489:INFO:gensim==3.7.3
+2021-04-09 12:45:07,489:INFO:spacy==2.3.5
+2021-04-09 12:45:07,489:INFO:nltk==3.4.5
+2021-04-09 12:45:07,490:INFO:textblob==0.15.3
+2021-04-09 12:45:07,490:INFO:pyLDAvis==3.2.2
+2021-04-09 12:45:07,490:INFO:wordcloud==1.8.1
+2021-04-09 12:45:07,490:INFO:mlflow==1.14.0
+2021-04-09 12:45:07,490:INFO:Checking Exceptions
+2021-04-09 12:47:18,715:INFO:PyCaret NLP Module
+2021-04-09 12:47:18,715:INFO:version 2.3.0
+2021-04-09 12:47:18,715:INFO:Initializing setup()
+2021-04-09 12:47:18,715:INFO:USI: 10f7
+2021-04-09 12:47:18,715:INFO:setup(data=(42656, 2), target=Review_Text, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-04-09 12:47:18,716:INFO:Checking environment
+2021-04-09 12:47:18,716:INFO:python_version: 3.6.9
+2021-04-09 12:47:18,716:INFO:python_build: ('default', 'Jul 30 2019 13:42:17')
+2021-04-09 12:47:18,716:INFO:machine: x86_64
+2021-04-09 12:47:18,716:INFO:platform: Darwin-17.7.0-x86_64-i386-64bit
+2021-04-09 12:47:18,719:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-04-09 12:47:18,719:INFO:Checking libraries
+2021-04-09 12:47:18,719:INFO:pd==1.0.3
+2021-04-09 12:47:18,719:INFO:numpy==1.19.5
+2021-04-09 12:47:18,719:INFO:gensim==3.7.3
+2021-04-09 12:47:18,719:INFO:spacy==2.3.5
+2021-04-09 12:47:18,719:INFO:nltk==3.4.5
+2021-04-09 12:47:18,719:INFO:textblob==0.15.3
+2021-04-09 12:47:18,720:INFO:pyLDAvis==3.2.2
+2021-04-09 12:47:18,720:INFO:wordcloud==1.8.1
+2021-04-09 12:47:18,720:INFO:mlflow==1.14.0
+2021-04-09 12:47:18,720:INFO:Checking Exceptions
+2021-04-09 12:48:21,356:INFO:PyCaret NLP Module
+2021-04-09 12:48:21,356:INFO:version 2.3.0
+2021-04-09 12:48:21,356:INFO:Initializing setup()
+2021-04-09 12:48:21,356:INFO:USI: fb14
+2021-04-09 12:48:21,356:INFO:setup(data=(42656, 2), target=Review_Text, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-04-09 12:48:21,357:INFO:Checking environment
+2021-04-09 12:48:21,357:INFO:python_version: 3.6.9
+2021-04-09 12:48:21,357:INFO:python_build: ('default', 'Jul 30 2019 13:42:17')
+2021-04-09 12:48:21,357:INFO:machine: x86_64
+2021-04-09 12:48:21,357:INFO:platform: Darwin-17.7.0-x86_64-i386-64bit
+2021-04-09 12:48:21,357:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-04-09 12:48:21,357:INFO:Checking libraries
+2021-04-09 12:48:21,358:INFO:pd==1.0.3
+2021-04-09 12:48:21,358:INFO:numpy==1.19.5
+2021-04-09 12:48:21,358:INFO:gensim==3.7.3
+2021-04-09 12:48:21,358:INFO:spacy==2.3.5
+2021-04-09 12:48:21,358:INFO:nltk==3.4.5
+2021-04-09 12:48:21,358:INFO:textblob==0.15.3
+2021-04-09 12:48:21,358:INFO:pyLDAvis==3.2.2
+2021-04-09 12:48:21,358:INFO:wordcloud==1.8.1
+2021-04-09 12:48:21,358:INFO:mlflow==1.14.0
+2021-04-09 12:48:21,359:INFO:Checking Exceptions
+2021-04-09 12:54:35,274:INFO:PyCaret NLP Module
+2021-04-09 12:54:35,275:INFO:version 2.3.0
+2021-04-09 12:54:35,275:INFO:Initializing setup()
+2021-04-09 12:54:35,275:INFO:USI: 5344
+2021-04-09 12:54:35,275:INFO:setup(data=(42656, 2), target=Review_Text, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-04-09 12:54:35,275:INFO:Checking environment
+2021-04-09 12:54:35,276:INFO:python_version: 3.6.9
+2021-04-09 12:54:35,276:INFO:python_build: ('default', 'Jul 30 2019 13:42:17')
+2021-04-09 12:54:35,276:INFO:machine: x86_64
+2021-04-09 12:54:35,276:INFO:platform: Darwin-17.7.0-x86_64-i386-64bit
+2021-04-09 12:54:35,276:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-04-09 12:54:35,277:INFO:Checking libraries
+2021-04-09 12:54:35,277:INFO:pd==1.0.3
+2021-04-09 12:54:35,277:INFO:numpy==1.19.5
+2021-04-09 12:54:35,277:INFO:gensim==3.7.3
+2021-04-09 12:54:35,277:INFO:spacy==2.3.5
+2021-04-09 12:54:35,277:INFO:nltk==3.4.5
+2021-04-09 12:54:35,277:INFO:textblob==0.15.3
+2021-04-09 12:54:35,277:INFO:pyLDAvis==3.2.2
+2021-04-09 12:54:35,277:INFO:wordcloud==1.8.1
+2021-04-09 12:54:35,278:INFO:mlflow==1.14.0
+2021-04-09 12:54:35,278:INFO:Checking Exceptions
+2021-04-09 12:56:24,888:INFO:PyCaret NLP Module
+2021-04-09 12:56:24,888:INFO:version 2.3.0
+2021-04-09 12:56:24,888:INFO:Initializing setup()
+2021-04-09 12:56:24,888:INFO:USI: 83bb
+2021-04-09 12:56:24,889:INFO:setup(data=(42656, 2), target=en, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-04-09 12:56:24,889:INFO:Checking environment
+2021-04-09 12:56:24,889:INFO:python_version: 3.6.9
+2021-04-09 12:56:24,889:INFO:python_build: ('default', 'Jul 30 2019 13:42:17')
+2021-04-09 12:56:24,889:INFO:machine: x86_64
+2021-04-09 12:56:24,889:INFO:platform: Darwin-17.7.0-x86_64-i386-64bit
+2021-04-09 12:56:24,890:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-04-09 12:56:24,890:INFO:Checking libraries
+2021-04-09 12:56:24,890:INFO:pd==1.0.3
+2021-04-09 12:56:24,890:INFO:numpy==1.19.5
+2021-04-09 12:56:24,890:INFO:gensim==3.7.3
+2021-04-09 12:56:24,890:INFO:spacy==2.3.5
+2021-04-09 12:56:24,890:INFO:nltk==3.4.5
+2021-04-09 12:56:24,891:INFO:textblob==0.15.3
+2021-04-09 12:56:24,891:INFO:pyLDAvis==3.2.2
+2021-04-09 12:56:24,891:INFO:wordcloud==1.8.1
+2021-04-09 12:56:24,891:INFO:mlflow==1.14.0
+2021-04-09 12:56:24,891:INFO:Checking Exceptions
+2021-04-09 12:56:29,520:INFO:PyCaret NLP Module
+2021-04-09 12:56:29,521:INFO:version 2.3.0
+2021-04-09 12:56:29,521:INFO:Initializing setup()
+2021-04-09 12:56:29,521:INFO:USI: 30fb
+2021-04-09 12:56:29,521:INFO:setup(data=(42656, 2), target=Review_Text, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-04-09 12:56:29,521:INFO:Checking environment
+2021-04-09 12:56:29,521:INFO:python_version: 3.6.9
+2021-04-09 12:56:29,522:INFO:python_build: ('default', 'Jul 30 2019 13:42:17')
+2021-04-09 12:56:29,522:INFO:machine: x86_64
+2021-04-09 12:56:29,522:INFO:platform: Darwin-17.7.0-x86_64-i386-64bit
+2021-04-09 12:56:29,522:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-04-09 12:56:29,522:INFO:Checking libraries
+2021-04-09 12:56:29,522:INFO:pd==1.0.3
+2021-04-09 12:56:29,522:INFO:numpy==1.19.5
+2021-04-09 12:56:29,523:INFO:gensim==3.7.3
+2021-04-09 12:56:29,523:INFO:spacy==2.3.5
+2021-04-09 12:56:29,523:INFO:nltk==3.4.5
+2021-04-09 12:56:29,523:INFO:textblob==0.15.3
+2021-04-09 12:56:29,523:INFO:pyLDAvis==3.2.2
+2021-04-09 12:56:29,523:INFO:wordcloud==1.8.1
+2021-04-09 12:56:29,523:INFO:mlflow==1.14.0
+2021-04-09 12:56:29,523:INFO:Checking Exceptions
+2021-04-09 13:00:14,264:INFO:PyCaret NLP Module
+2021-04-09 13:00:14,264:INFO:version 2.3.0
+2021-04-09 13:00:14,264:INFO:Initializing setup()
+2021-04-09 13:00:14,264:INFO:USI: 94f1
+2021-04-09 13:00:14,264:INFO:setup(data=(42656, 2), target=Review_Text, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-04-09 13:00:14,265:INFO:Checking environment
+2021-04-09 13:00:14,265:INFO:python_version: 3.6.9
+2021-04-09 13:00:14,266:INFO:python_build: ('default', 'Jul 30 2019 13:42:17')
+2021-04-09 13:00:14,267:INFO:machine: x86_64
+2021-04-09 13:00:14,270:INFO:platform: Darwin-17.7.0-x86_64-i386-64bit
+2021-04-09 13:00:14,280:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-04-09 13:00:14,280:INFO:Checking libraries
+2021-04-09 13:00:14,281:INFO:pd==1.0.3
+2021-04-09 13:00:14,281:INFO:numpy==1.19.5
+2021-04-09 13:00:14,281:INFO:gensim==3.7.3
+2021-04-09 13:00:14,281:INFO:spacy==2.3.5
+2021-04-09 13:00:14,281:INFO:nltk==3.4.5
+2021-04-09 13:00:14,281:INFO:textblob==0.15.3
+2021-04-09 13:00:14,281:INFO:pyLDAvis==3.2.2
+2021-04-09 13:00:14,281:INFO:wordcloud==1.8.1
+2021-04-09 13:00:14,281:INFO:mlflow==1.14.0
+2021-04-09 13:00:14,281:INFO:Checking Exceptions
+2021-04-09 13:00:36,935:INFO:PyCaret NLP Module
+2021-04-09 13:00:36,935:INFO:version 2.3.0
+2021-04-09 13:00:36,936:INFO:Initializing setup()
+2021-04-09 13:00:36,936:INFO:USI: 5710
+2021-04-09 13:00:36,936:INFO:setup(data=(42656, 2), target=Review_Text, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-04-09 13:00:36,936:INFO:Checking environment
+2021-04-09 13:00:36,936:INFO:python_version: 3.6.9
+2021-04-09 13:00:36,936:INFO:python_build: ('default', 'Jul 30 2019 13:42:17')
+2021-04-09 13:00:36,936:INFO:machine: x86_64
+2021-04-09 13:00:36,966:INFO:platform: Darwin-17.7.0-x86_64-i386-64bit
+2021-04-09 13:00:36,967:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-04-09 13:00:36,967:INFO:Checking libraries
+2021-04-09 13:00:36,968:INFO:pd==1.0.3
+2021-04-09 13:00:36,968:INFO:numpy==1.19.5
+2021-04-09 13:00:37,369:INFO:gensim==3.7.3
+2021-04-09 13:00:37,369:INFO:spacy==2.3.5
+2021-04-09 13:00:37,369:INFO:nltk==3.4.5
+2021-04-09 13:00:37,413:INFO:textblob==0.15.3
+2021-04-09 13:00:37,545:INFO:pyLDAvis==3.2.2
+2021-04-09 13:00:37,633:INFO:wordcloud==1.8.1
+2021-04-09 13:00:38,018:INFO:mlflow==1.14.0
+2021-04-09 13:00:38,018:INFO:Checking Exceptions
+2021-04-09 13:00:38,840:INFO:Preloading libraries
+2021-04-09 13:00:38,840:INFO:Preparing display monitor
+2021-04-09 13:00:38,882:INFO:Importing libraries
+2021-04-09 13:00:38,883:INFO:Declaring global variables
+2021-04-09 13:00:38,884:INFO:Input provided : dataframe
+2021-04-09 13:00:38,884:INFO:session_id set to : 3710
+2021-04-09 13:00:38,885:INFO:Copying training dataset
+2021-04-09 13:00:38,887:INFO:Importing stopwords from nltk
+2021-04-09 13:00:38,891:INFO:No custom stopwords defined
+2021-04-09 13:00:38,892:INFO:Removing numeric characters from the text
+2021-04-09 13:00:40,029:INFO:Removing special characters from the text
+2021-04-09 13:00:48,057:INFO:Tokenizing Words
+2021-04-09 13:01:07,713:INFO:Removing stopwords
+2021-04-09 13:01:19,090:INFO:Extracting Bigrams
+2021-04-09 13:01:56,954:INFO:Extracting Trigrams
+2021-04-09 13:03:06,072:INFO:Lemmatizing tokens
+2021-04-09 13:07:20,540:INFO:Removing stopwords after lemmatizing
+2021-04-09 13:07:26,869:INFO:Creating corpus and dictionary
+2021-04-09 13:07:32,582:INFO:Compiling processed text
+2021-04-09 13:07:32,682:INFO:Compiling information grid
+2021-04-09 13:07:33,078:INFO:setup() succesfully completed......................................
+2021-04-09 13:07:33,264:INFO:Initializing create_model()
+2021-04-09 13:07:33,264:INFO:create_model(model=lsi, multi_core=False, num_topics=None, verbose=True, system=True)
+2021-04-09 13:07:33,264:INFO:Checking exceptions
+2021-04-09 13:07:33,265:INFO:Preloading libraries
+2021-04-09 13:07:33,265:INFO:Preparing display monitor
+2021-04-09 13:07:33,291:INFO:Defining topic model
+2021-04-09 13:07:33,291:INFO:Model: Latent Semantic Indexing
+2021-04-09 13:07:33,292:INFO:Defining num_topics parameter
+2021-04-09 13:07:33,292:INFO:num_topics set to: 4
+2021-04-09 13:07:33,301:INFO:LsiModel imported successfully
+2021-04-09 13:07:40,421:INFO:LsiModel trained successfully
+2021-04-09 13:07:40,424:INFO:LsiModel(num_terms=27015, num_topics=4, decay=1.0, chunksize=20000)
+2021-04-09 13:07:40,424:INFO:create_model() succesfully completed......................................
+2021-04-09 13:07:40,431:INFO:Initializing assign_model()
+2021-04-09 13:07:40,431:INFO:assign_model(model=LsiModel(num_terms=27015, num_topics=4, decay=1.0, chunksize=20000), verbose=True)
+2021-04-09 13:07:40,431:INFO:Determining model type
+2021-04-09 13:07:40,431:INFO:model type: lsi
+2021-04-09 13:07:40,431:INFO:Checking exceptions
+2021-04-09 13:07:40,431:INFO:Preloading libraries
+2021-04-09 13:07:40,432:INFO:Preparing display monitor
+2021-04-09 13:18:44,037:INFO:PyCaret NLP Module
+2021-04-09 13:18:44,037:INFO:version 2.3.0
+2021-04-09 13:18:44,038:INFO:Initializing setup()
+2021-04-09 13:18:44,038:INFO:USI: 05f3
+2021-04-09 13:18:44,038:INFO:setup(data=(42656, 2), target=Rating, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-04-09 13:18:44,038:INFO:Checking environment
+2021-04-09 13:18:44,038:INFO:python_version: 3.6.9
+2021-04-09 13:18:44,038:INFO:python_build: ('default', 'Jul 30 2019 13:42:17')
+2021-04-09 13:18:44,038:INFO:machine: x86_64
+2021-04-09 13:18:44,038:INFO:platform: Darwin-17.7.0-x86_64-i386-64bit
+2021-04-09 13:18:44,039:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-04-09 13:18:44,039:INFO:Checking libraries
+2021-04-09 13:18:44,039:INFO:pd==1.0.3
+2021-04-09 13:18:44,039:INFO:numpy==1.19.5
+2021-04-09 13:18:44,040:INFO:gensim==3.7.3
+2021-04-09 13:18:44,040:INFO:spacy==2.3.5
+2021-04-09 13:18:44,040:INFO:nltk==3.4.5
+2021-04-09 13:18:44,040:INFO:textblob==0.15.3
+2021-04-09 13:18:44,040:INFO:pyLDAvis==3.2.2
+2021-04-09 13:18:44,040:INFO:wordcloud==1.8.1
+2021-04-09 13:18:44,040:INFO:mlflow==1.14.0
+2021-04-09 13:18:44,040:INFO:Checking Exceptions
+2021-04-09 13:18:44,934:INFO:Preloading libraries
+2021-04-09 13:18:44,935:INFO:Preparing display monitor
+2021-04-09 13:18:44,956:INFO:Importing libraries
+2021-04-09 13:18:44,956:INFO:Declaring global variables
+2021-04-09 13:18:44,957:INFO:Input provided : dataframe
+2021-04-09 13:18:44,957:INFO:session_id set to : 1986
+2021-04-09 13:18:44,957:INFO:Copying training dataset
+2021-04-09 13:18:44,973:INFO:Importing stopwords from nltk
+2021-04-09 13:18:44,975:INFO:No custom stopwords defined
+2021-04-09 13:18:44,976:INFO:Removing numeric characters from the text
+2021-04-09 13:18:45,091:INFO:Removing special characters from the text
+2021-04-09 13:18:45,375:INFO:Tokenizing Words
+2021-04-09 13:18:45,639:INFO:Removing stopwords
+2021-04-09 13:18:45,864:INFO:Extracting Bigrams
+2021-04-09 13:18:46,083:INFO:Extracting Trigrams
+2021-04-09 13:18:46,742:INFO:Lemmatizing tokens
+2021-04-09 13:18:49,151:INFO:Removing stopwords after lemmatizing
+2021-04-09 13:18:49,377:INFO:Creating corpus and dictionary
+2021-04-09 13:18:49,888:INFO:Compiling processed text
+2021-04-09 13:18:49,902:INFO:Compiling information grid
+2021-04-09 13:18:49,907:INFO:setup() succesfully completed......................................
+2021-04-09 13:18:49,925:INFO:Initializing create_model()
+2021-04-09 13:18:49,925:INFO:create_model(model=lsi, multi_core=False, num_topics=None, verbose=True, system=True)
+2021-04-09 13:18:49,925:INFO:Checking exceptions
+2021-04-09 13:18:49,925:INFO:Preloading libraries
+2021-04-09 13:18:49,925:INFO:Preparing display monitor
+2021-04-09 13:18:49,948:INFO:Defining topic model
+2021-04-09 13:18:49,948:INFO:Model: Latent Semantic Indexing
+2021-04-09 13:18:49,949:INFO:Defining num_topics parameter
+2021-04-09 13:18:49,949:INFO:num_topics set to: 4
+2021-04-09 13:18:49,958:INFO:LsiModel imported successfully
+2021-04-09 13:19:25,962:INFO:PyCaret NLP Module
+2021-04-09 13:19:25,962:INFO:version 2.3.0
+2021-04-09 13:19:25,962:INFO:Initializing setup()
+2021-04-09 13:19:25,962:INFO:USI: 731c
+2021-04-09 13:19:25,962:INFO:setup(data=(42656,), target=Review_Text, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-04-09 13:19:25,962:INFO:Checking environment
+2021-04-09 13:19:25,962:INFO:python_version: 3.6.9
+2021-04-09 13:19:25,962:INFO:python_build: ('default', 'Jul 30 2019 13:42:17')
+2021-04-09 13:19:25,963:INFO:machine: x86_64
+2021-04-09 13:19:25,963:INFO:platform: Darwin-17.7.0-x86_64-i386-64bit
+2021-04-09 13:19:25,963:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-04-09 13:19:25,963:INFO:Checking libraries
+2021-04-09 13:19:25,964:INFO:pd==1.0.3
+2021-04-09 13:19:25,964:INFO:numpy==1.19.5
+2021-04-09 13:19:25,964:INFO:gensim==3.7.3
+2021-04-09 13:19:25,964:INFO:spacy==2.3.5
+2021-04-09 13:19:25,964:INFO:nltk==3.4.5
+2021-04-09 13:19:25,964:INFO:textblob==0.15.3
+2021-04-09 13:19:25,964:INFO:pyLDAvis==3.2.2
+2021-04-09 13:19:25,964:INFO:wordcloud==1.8.1
+2021-04-09 13:19:25,964:INFO:mlflow==1.14.0
+2021-04-09 13:19:25,964:INFO:Checking Exceptions
+2021-04-09 13:19:40,333:INFO:PyCaret NLP Module
+2021-04-09 13:19:40,333:INFO:version 2.3.0
+2021-04-09 13:19:40,334:INFO:Initializing setup()
+2021-04-09 13:19:40,334:INFO:USI: 0b48
+2021-04-09 13:19:40,334:INFO:setup(data=(42656,), target=None, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-04-09 13:19:40,335:INFO:Checking environment
+2021-04-09 13:19:40,335:INFO:python_version: 3.6.9
+2021-04-09 13:19:40,335:INFO:python_build: ('default', 'Jul 30 2019 13:42:17')
+2021-04-09 13:19:40,335:INFO:machine: x86_64
+2021-04-09 13:19:40,335:INFO:platform: Darwin-17.7.0-x86_64-i386-64bit
+2021-04-09 13:19:40,336:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-04-09 13:19:40,336:INFO:Checking libraries
+2021-04-09 13:19:40,336:INFO:pd==1.0.3
+2021-04-09 13:19:40,336:INFO:numpy==1.19.5
+2021-04-09 13:19:40,336:INFO:gensim==3.7.3
+2021-04-09 13:19:40,336:INFO:spacy==2.3.5
+2021-04-09 13:19:40,336:INFO:nltk==3.4.5
+2021-04-09 13:19:40,337:INFO:textblob==0.15.3
+2021-04-09 13:19:40,337:INFO:pyLDAvis==3.2.2
+2021-04-09 13:19:40,337:INFO:wordcloud==1.8.1
+2021-04-09 13:19:40,337:INFO:mlflow==1.14.0
+2021-04-09 13:19:40,337:INFO:Checking Exceptions
+2021-04-09 13:20:17,224:INFO:PyCaret NLP Module
+2021-04-09 13:20:17,224:INFO:version 2.3.0
+2021-04-09 13:20:17,224:INFO:Initializing setup()
+2021-04-09 13:20:17,224:INFO:USI: 0b40
+2021-04-09 13:20:17,224:INFO:setup(data=(42656, 2), target=Review_Text, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-04-09 13:20:17,224:INFO:Checking environment
+2021-04-09 13:20:17,224:INFO:python_version: 3.6.9
+2021-04-09 13:20:17,224:INFO:python_build: ('default', 'Jul 30 2019 13:42:17')
+2021-04-09 13:20:17,224:INFO:machine: x86_64
+2021-04-09 13:20:17,225:INFO:platform: Darwin-17.7.0-x86_64-i386-64bit
+2021-04-09 13:20:17,225:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-04-09 13:20:17,225:INFO:Checking libraries
+2021-04-09 13:20:17,225:INFO:pd==1.0.3
+2021-04-09 13:20:17,225:INFO:numpy==1.19.5
+2021-04-09 13:20:17,225:INFO:gensim==3.7.3
+2021-04-09 13:20:17,226:INFO:spacy==2.3.5
+2021-04-09 13:20:17,226:INFO:nltk==3.4.5
+2021-04-09 13:20:17,226:INFO:textblob==0.15.3
+2021-04-09 13:20:17,226:INFO:pyLDAvis==3.2.2
+2021-04-09 13:20:17,226:INFO:wordcloud==1.8.1
+2021-04-09 13:20:17,226:INFO:mlflow==1.14.0
+2021-04-09 13:20:17,226:INFO:Checking Exceptions
+2021-04-09 13:20:17,992:INFO:Preloading libraries
+2021-04-09 13:20:17,992:INFO:Preparing display monitor
+2021-04-09 13:20:18,018:INFO:Importing libraries
+2021-04-09 13:20:18,018:INFO:Declaring global variables
+2021-04-09 13:20:18,020:INFO:Input provided : dataframe
+2021-04-09 13:20:18,020:INFO:session_id set to : 2693
+2021-04-09 13:20:18,020:INFO:Copying training dataset
+2021-04-09 13:20:18,023:INFO:Importing stopwords from nltk
+2021-04-09 13:20:18,024:INFO:No custom stopwords defined
+2021-04-09 13:20:18,025:INFO:Removing numeric characters from the text
+2021-04-09 13:20:19,276:INFO:Removing special characters from the text
+2021-04-09 13:20:27,228:INFO:Tokenizing Words
+2021-04-09 13:20:47,253:INFO:Removing stopwords
+2021-04-09 13:20:58,548:INFO:Extracting Bigrams
+2021-04-09 13:21:36,753:INFO:Extracting Trigrams
+2021-04-09 13:22:46,098:INFO:Lemmatizing tokens
+2021-04-09 13:26:59,291:INFO:Removing stopwords after lemmatizing
+2021-04-09 13:27:05,678:INFO:Creating corpus and dictionary
+2021-04-09 13:27:11,461:INFO:Compiling processed text
+2021-04-09 13:27:11,562:INFO:Compiling information grid
+2021-04-09 13:27:11,569:INFO:setup() succesfully completed......................................
+2021-04-09 13:27:11,674:INFO:Initializing create_model()
+2021-04-09 13:27:11,674:INFO:create_model(model=lsi, multi_core=False, num_topics=None, verbose=True, system=True)
+2021-04-09 13:27:11,674:INFO:Checking exceptions
+2021-04-09 13:27:11,674:INFO:Preloading libraries
+2021-04-09 13:27:11,674:INFO:Preparing display monitor
+2021-04-09 13:27:11,694:INFO:Defining topic model
+2021-04-09 13:27:11,694:INFO:Model: Latent Semantic Indexing
+2021-04-09 13:27:11,695:INFO:Defining num_topics parameter
+2021-04-09 13:27:11,695:INFO:num_topics set to: 4
+2021-04-09 13:27:11,703:INFO:LsiModel imported successfully
+2021-04-09 13:27:18,576:INFO:LsiModel trained successfully
+2021-04-09 13:27:18,579:INFO:LsiModel(num_terms=27015, num_topics=4, decay=1.0, chunksize=20000)
+2021-04-09 13:27:18,579:INFO:create_model() succesfully completed......................................
+2021-04-09 13:27:18,581:INFO:Initializing assign_model()
+2021-04-09 13:27:18,581:INFO:assign_model(model=LsiModel(num_terms=27015, num_topics=4, decay=1.0, chunksize=20000), verbose=True)
+2021-04-09 13:27:18,581:INFO:Determining model type
+2021-04-09 13:27:18,581:INFO:model type: lsi
+2021-04-09 13:27:18,581:INFO:Checking exceptions
+2021-04-09 13:27:18,581:INFO:Preloading libraries
+2021-04-09 13:27:18,582:INFO:Preparing display monitor
+2021-04-09 13:41:11,036:INFO:PyCaret NLP Module
+2021-04-09 13:41:11,037:INFO:version 2.3.0
+2021-04-09 13:41:11,037:INFO:Initializing setup()
+2021-04-09 13:41:11,037:INFO:USI: 3c95
+2021-04-09 13:41:11,038:INFO:setup(data=(42656, 2), target=Review_Text, custom_stopwords=None, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_data=False, verbose=True)
+2021-04-09 13:41:11,038:INFO:Checking environment
+2021-04-09 13:41:11,038:INFO:python_version: 3.6.9
+2021-04-09 13:41:11,038:INFO:python_build: ('default', 'Jul 30 2019 13:42:17')
+2021-04-09 13:41:11,038:INFO:machine: x86_64
+2021-04-09 13:41:11,063:INFO:platform: Darwin-17.7.0-x86_64-i386-64bit
+2021-04-09 13:41:11,065:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2021-04-09 13:41:11,065:INFO:Checking libraries
+2021-04-09 13:41:11,065:INFO:pd==1.0.3
+2021-04-09 13:41:11,066:INFO:numpy==1.19.5
+2021-04-09 13:41:11,474:INFO:gensim==3.7.3
+2021-04-09 13:41:11,474:INFO:spacy==2.3.5
+2021-04-09 13:41:11,474:INFO:nltk==3.4.5
+2021-04-09 13:41:11,517:INFO:textblob==0.15.3
+2021-04-09 13:41:11,651:INFO:pyLDAvis==3.2.2
+2021-04-09 13:41:11,738:INFO:wordcloud==1.8.1
+2021-04-09 13:41:12,124:INFO:mlflow==1.14.0
+2021-04-09 13:41:12,124:INFO:Checking Exceptions
+2021-04-09 13:41:12,962:INFO:Preloading libraries
+2021-04-09 13:41:12,962:INFO:Preparing display monitor
+2021-04-09 13:41:13,005:INFO:Importing libraries
+2021-04-09 13:41:13,006:INFO:Declaring global variables
+2021-04-09 13:41:13,007:INFO:Input provided : dataframe
+2021-04-09 13:41:13,007:INFO:session_id set to : 1707
+2021-04-09 13:41:13,007:INFO:Copying training dataset
+2021-04-09 13:41:13,009:INFO:Importing stopwords from nltk
+2021-04-09 13:41:13,013:INFO:No custom stopwords defined
+2021-04-09 13:41:13,014:INFO:Removing numeric characters from the text
+2021-04-09 13:41:14,250:INFO:Removing special characters from the text
+2021-04-09 13:41:22,292:INFO:Tokenizing Words
+2021-04-09 13:41:42,703:INFO:Removing stopwords
+2021-04-09 13:41:54,124:INFO:Extracting Bigrams
+2021-04-09 13:42:32,110:INFO:Extracting Trigrams
+2021-04-09 13:43:42,224:INFO:Lemmatizing tokens
+2021-04-09 13:47:50,717:INFO:Removing stopwords after lemmatizing
+2021-04-09 13:47:56,280:INFO:Creating corpus and dictionary
+2021-04-09 13:48:01,244:INFO:Compiling processed text
+2021-04-09 13:48:01,332:INFO:Compiling information grid
+2021-04-09 13:48:01,664:INFO:setup() succesfully completed......................................
+2021-04-09 13:48:01,829:INFO:Initializing create_model()
+2021-04-09 13:48:01,830:INFO:create_model(model=lsi, multi_core=False, num_topics=None, verbose=True, system=True)
+2021-04-09 13:48:01,830:INFO:Checking exceptions
+2021-04-09 13:48:01,830:INFO:Preloading libraries
+2021-04-09 13:48:01,830:INFO:Preparing display monitor
+2021-04-09 13:48:01,857:INFO:Defining topic model
+2021-04-09 13:48:01,857:INFO:Model: Latent Semantic Indexing
+2021-04-09 13:48:01,857:INFO:Defining num_topics parameter
+2021-04-09 13:48:01,857:INFO:num_topics set to: 4
+2021-04-09 13:48:01,868:INFO:LsiModel imported successfully
+2021-04-09 13:48:08,179:INFO:LsiModel trained successfully
+2021-04-09 13:48:08,182:INFO:LsiModel(num_terms=27015, num_topics=4, decay=1.0, chunksize=20000)
+2021-04-09 13:48:08,182:INFO:create_model() succesfully completed......................................
+2021-04-09 13:48:08,184:INFO:Initializing assign_model()
+2021-04-09 13:48:08,184:INFO:assign_model(model=LsiModel(num_terms=27015, num_topics=4, decay=1.0, chunksize=20000), verbose=True)
+2021-04-09 13:48:08,184:INFO:Determining model type
+2021-04-09 13:48:08,184:INFO:model type: lsi
+2021-04-09 13:48:08,184:INFO:Checking exceptions
+2021-04-09 13:48:08,184:INFO:Preloading libraries
+2021-04-09 13:48:08,184:INFO:Preparing display monitor
